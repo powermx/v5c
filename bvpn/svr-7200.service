@@ -1,6 +1,5 @@
 #!/bin/bash
 #system badvpn udogw 7200
-#created hidessh
 
 [Unit]
 Description=badvpn udogw 7200 PowerMX
