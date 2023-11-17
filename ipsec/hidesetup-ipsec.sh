@@ -1,5 +1,4 @@
 #!/bin/bash
-#Script By hidessh
 #script installer ipsec
 # ==================================================
 
